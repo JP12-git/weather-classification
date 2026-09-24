@@ -83,7 +83,5 @@ weather-prediction/
 ├── Preprocessing.pkl
 ├── ann_model.keras
 ├── app.py
-├── JP_Project_9.ipynb
-├── weather_classification_data.csv
 └── README.md
 
