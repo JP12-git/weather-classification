@@ -1,5 +1,7 @@
 # 🌦️ Weather Prediction
+
 <img src ="Thumbnail/project.jpeg">
+
 ## 📌 About the Project
 
 Weather Prediction is a Deep Learning based classification project that predicts the weather type from selected atmospheric and environmental conditions.
@@ -38,9 +40,9 @@ The application uses the following features for prediction:
 
 <img src = "Thumbnail/streamlit.jpeg">
 
-> The trained model is integrated with Streamlit to provide an interactive web application where users can enter weather conditions and receive a prediction.
+The trained model is integrated with Streamlit to provide an interactive web application where users can enter weather conditions and receive a prediction.
 
-> 🚀 Live Demo
+🚀 Live Demo
 
 
 
@@ -67,11 +69,11 @@ The application uses the following features for prediction:
 - Streamlit
 - Jupyter Notebook
 
-> **Note:** This project is developed for educational and demonstration purposes. It is not a real-time weather forecasting system.
+**Note:** This project is developed for educational and demonstration purposes. It is not a real-time weather forecasting system.
 
 ## 📁 Repository Structure
 
-
+```text
 weather-prediction/
 │
 ├── Project/ Dataset , Python file , Documentation
