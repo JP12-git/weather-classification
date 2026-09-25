@@ -1,10 +1,10 @@
-# 🌦️ Weather Prediction
+# 🌦️ Weather Classification
 
 <img src ="Thumbnail/Project.jpeg">
 
 ## 📌 About the Project
 
-Weather Prediction is a Deep Learning based classification project that predicts the weather type from selected atmospheric and environmental conditions.
+Weather Classification is a Deep Learning based classification project that predicts the weather type from selected atmospheric and environmental conditions.
 
 An Artificial Neural Network (ANN) is trained to classify the input into four weather categories:
 
@@ -42,9 +42,9 @@ The application uses the following features for prediction:
 
 The trained model is integrated with Streamlit to provide an interactive web application where users can enter weather conditions and receive a prediction.
 
-🚀 Live Demo
+## 🚀 Live Demo
 
-https://weather-classification-project.streamlit.app/
+https://weather-classification-project.streamlit.app
 
 ## ✨ Key Features
 
