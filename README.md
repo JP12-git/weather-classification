@@ -1,6 +1,6 @@
 # 🌦️ Weather Prediction
 
-<img src ="Thumbnail/project.jpeg">
+<img src ="Thumbnail/Project.jpeg">
 
 ## 📌 About the Project
 
@@ -38,7 +38,7 @@ The application uses the following features for prediction:
 
 ## 🌐 Web Application
 
-<img src = "Thumbnail/streamlit.jpeg">
+<img src = "Thumbnail/Web application.jpeg">
 
 The trained model is integrated with Streamlit to provide an interactive web application where users can enter weather conditions and receive a prediction.
 
