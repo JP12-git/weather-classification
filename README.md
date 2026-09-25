@@ -44,7 +44,7 @@ The trained model is integrated with Streamlit to provide an interactive web app
 
 🚀 Live Demo
 
-
+https://weather-classification-project.streamlit.app/
 
 ## ✨ Key Features
 
@@ -74,7 +74,7 @@ The trained model is integrated with Streamlit to provide an interactive web app
 ## 📁 Repository Structure
 
 ```text
-weather-prediction/
+weather-classification
 │
 ├── Project/ Dataset , Python file , Documentation
 ├── Thumbnail/ Project , Web application Thumbnails
@@ -84,4 +84,3 @@ weather-prediction/
 ├── ann_model.keras
 ├── app.py
 └── README.md
-
